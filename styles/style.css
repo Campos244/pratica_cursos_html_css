@@ -122,7 +122,11 @@ width: 50%;
 @media (max-width:1200px) /*oq está dentro do pareteses é uma condição*/{
 .apresentacao{
     flex-direction: column-reverse;
-    padding: auto;
+    padding: 5%;
 }
+.apresentacao__conteudo {
+    width: auto;
+    
 }
 
+}
